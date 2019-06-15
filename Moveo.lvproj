@@ -10,7 +10,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Main.vi" Type="VI" URL="../MoveoClass/Main.vi"/>
+		<Item Name="Main_Playground.vi" Type="VI" URL="../Main_Playground.vi"/>
 		<Item Name="Moveo.lvclass" Type="LVClass" URL="../MoveoClass/Moveo.lvclass"/>
 		<Item Name="MoveoSerial.lvclass" Type="LVClass" URL="../MoveoSerialClass/MoveoSerial.lvclass"/>
 		<Item Name="Abhängigkeiten" Type="Dependencies">
